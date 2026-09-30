@@ -65,7 +65,7 @@ const defaultProducts = [
         id: 6,
         name: "Cloro Concentrado",
         desc: "Máximo poder blanqueador y desinfección total.",
-        price: 330,
+        price: 350,
         category: "Desinfectantes",
         icon: "fa-bottle-droplet",
         image: ""   // 👉 Pega aquí la URL de la imagen del producto
